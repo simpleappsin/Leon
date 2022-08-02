@@ -1,0 +1,5 @@
+pyttsx3==2.87
+pygame==1.9.6
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyaudio==0.2.11
