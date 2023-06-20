@@ -15,7 +15,7 @@
 * If you get any error please launch it on PyCharm IDE first to see what is the error code.
 
 # Website
-* https://www.procoded.tech
+* https://monstastudios.com
 
 # Support
 * https://www.buymeacoffee.com/simpleapps
